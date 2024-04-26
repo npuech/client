@@ -11,7 +11,7 @@ function Footer() {
                 <a href="#" target="_blank"><img src="images/icons8-instagram-60.png" alt="Icone Instagram"/></a>
            </div>
            <div className="mentions">
-            <a href="mentions-legales.html">Mentions Légales</a>
+            <a href="#">Mentions Légales</a>
            </div>
            <div className="text">
             <p>© 2024 RetainRacer. Tous droits réservés. By NP</p>
